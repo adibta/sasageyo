@@ -1,5 +1,6 @@
 <base>
 <feature>
+bebek
 <home/>
 <auth/>
 </feature>
