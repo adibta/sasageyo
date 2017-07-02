@@ -1,4 +1,5 @@
 <base>
-
-
+<feature>
+<home/>
+</feature>
 </base>
