@@ -1,5 +1,6 @@
 <base>
 <feature>
 <home/>
+<auth/>
 </feature>
 </base>
