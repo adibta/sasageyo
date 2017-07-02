@@ -1,4 +1,6 @@
 <base>
+<feature>
+</auth>
 
-
+</feature>
 </base>
