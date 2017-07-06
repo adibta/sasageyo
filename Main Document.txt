@@ -4,5 +4,6 @@ gato1
 bebek
 <home/>
 <auth/>
+gato2
 </feature>
 </base>
