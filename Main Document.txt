@@ -3,7 +3,10 @@ gato1
 <feature>
 bebek
 <home/>
-<auth/>
+<auth>
+ari1
+</auth>
+ari2
 gato2
 </feature>
 </base>
