@@ -2,6 +2,8 @@
 <feature>
 bebek
 <home/>
-<auth/>
+<auth>
+ari1
+</auth>
 </feature>
 </base>
